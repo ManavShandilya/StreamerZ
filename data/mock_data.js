@@ -1,0 +1,21 @@
+export const rec_channels = [{"id":1,
+"avatar":"https://robohash.org/doloresblanditiisveritatis.png?size=50x50&set=set1","username":"mmooring0",
+"game_name":"Pannier",
+"rank":13},
+{"id":2,"avatar":"https://robohash.org/autiderror.png?size=50x50&set=set1","username":"kmabbett1","game_name":"Matsoft","rank":2},
+{"id":3,"avatar":"https://robohash.org/expeditaestet.png?size=50x50&set=set1","username":"csommerling2","game_name":"Y-find","rank":8},
+{"id":4,"avatar":"https://robohash.org/itaqueconsequaturab.png?size=50x50&set=set1","username":"kleigh3","game_name":"Toughjoyfax","rank":33},
+{"id":5,"avatar":"https://robohash.org/explicaboaliquamrecusandae.png?size=50x50&set=set1","username":"cmacinerney4","game_name":"Gembucket","rank":6},
+{"id":6,"avatar":"https://robohash.org/rerumesseinventore.png?size=50x50&set=set1","username":"bleggott5","game_name":"Transcof","rank":21},
+{"id":7,"avatar":"https://robohash.org/debitisautminima.png?size=50x50&set=set1","username":"jkaplan6","game_name":"Tampflex","rank":43},
+{"id":8,"avatar":"https://robohash.org/reiciendisminusveniam.png?size=50x50&set=set1","username":"jseakings7","game_name":"Toughjoyfax","rank":81},
+{"id":9,"avatar":"https://robohash.org/sintcommodisit.png?size=50x50&set=set1","username":"hjuden8","game_name":"Flexidy","rank":52},
+{"id":10,"avatar":"https://robohash.org/eaametex.png?size=50x50&set=set1","username":"gtruitt9","game_name":"Stronghold","rank":51}]
+
+export const top_channels = [{"id":1,
+"avatar":"https://robohash.org/doloresblanditiisveritatis.png?size=50x50&set=set1","username":"mmooring0",
+"game_name":"Pannier",
+"rank":13},
+{"id":2,"avatar":"https://robohash.org/autiderror.png?size=50x50&set=set1","username":"kmabbett1","game_name":"Matsoft","rank":2},
+{"id":3,"avatar":"https://robohash.org/expeditaestet.png?size=50x50&set=set1","username":"csommerling2","game_name":"Y-find","rank":8},
+{"id":4,"avatar":"https://robohash.org/itaqueconsequaturab.png?size=50x50&set=set1","username":"kleigh3","game_name":"Toughjoyfax","rank":33}]
